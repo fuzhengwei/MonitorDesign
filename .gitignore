@@ -17,7 +17,13 @@
 *.ear
 *.zip
 *.tar.gz
-*.rar
+*.rark
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/cn-bugstack-middleware-aop/cn-bugstack-middleware-aop.iml
+/cn-bugstack-middleware-asm/cn-bugstack-middleware-asm.iml
+/cn-bugstack-middleware-javassist/cn-bugstack-middleware-javassist.iml
+/cn-bugstack-middleware-bytebuddy/cn-bugstack-middleware-bytebuddy.iml
+/cn-bugstack-middleware-test/cn-bugstack-middleware-test.iml
+/MonitorDesign.iml
